@@ -6,7 +6,7 @@ public class Ezh
   //public string Name { set; get; }
   private int age;
   //public int Age { get; set; }
-  public Ezh(string name, int age)
+  public Ezh(string name,     int age)
   {
     this.name = name;
     this.age = age;
